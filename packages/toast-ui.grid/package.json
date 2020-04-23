@@ -75,7 +75,7 @@
   },
   "dependencies": {
     "@toast-ui/select-box": "^1.0.0",
-    "preact": "^8.4.2",
+    "preact": "^8.5.3",
     "tslib": "^1.10.0",
     "tui-date-picker": "^3.3.3",
     "tui-pagination": "^3.3.2"
